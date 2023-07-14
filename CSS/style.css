@@ -1,0 +1,100 @@
+/**********TAG SELECTORS**********/
+
+body{
+    background-color: #001c30;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4{
+    color:aliceblue;
+}
+
+p{
+    color: #9db2bf;
+}
+
+hr{
+    position: relative;
+    bottom: 75px;
+    position: relative;
+    right: 10px;
+    border-top: 90%;
+    border-style: inset;
+    
+    border-color: #9db2bf;
+    height: 0;
+}
+
+/**********CLASS SELECTORS**********/
+
+.main{
+    background-color: #16273fbe;
+    border-radius: 10px;
+    height: 450px;
+    width: 250px;
+    margin: 65px auto;
+    padding: 20px 0px 20px 20px;
+}
+
+.crypto{
+    display: inline-block;
+}
+
+.nft-art{
+    position: relative;
+    bottom: 17px;
+}
+
+.crystal{
+    border-radius: 10px;
+    height: 240px;
+    width: 230px;
+}
+
+.sub{
+    padding-left: 160px;
+    height: 47px;
+    width: 100px;
+    position: relative;
+    bottom: 60px;
+}
+
+.tik-tok{
+    position: relative;
+    right: 20px;
+}
+
+#art{
+    color: #00f5ff;
+    position: relative;
+    bottom: 20px;
+}
+
+.ticking{
+    height: 10px;
+    width: 85px;
+    position: relative;
+    bottom: 35px;
+    
+    
+}
+
+.jules{
+    border-color: aliceblue;
+    border-radius: 100%;
+    border-style: ridge;
+    height: 30px;
+    width: 30px;
+    float: left;
+    position: relative;
+    bottom: 70px;
+}
+#Wyvern{
+    margin: 10px;
+    position: relative;
+    bottom: 70px;
+    
+}
+
+
+
